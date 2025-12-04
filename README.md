@@ -1,4 +1,4 @@
-# learning_website
+
 # DevMastery Hub - Learning Website
 
 Welcome to **DevMastery Hub**, a project-based learning website to build real-world projects while learning web development.
