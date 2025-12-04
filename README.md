@@ -49,7 +49,7 @@ You can view the live website here:
 
 - The site visually presents a structured, scrollable learning hub.
 - Users can navigate through sections using the menu.
-- All content is textual and tabular; no interactive functionality is implemented beyond links.
+-video links will open directly on YouTube when clicked.
 - Images and tables make it easy to view project lists, durations, and resources at a glance.
 
 
